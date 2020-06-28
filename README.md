@@ -10,3 +10,8 @@ Submission of the final Stepik project. Task of segmentation of a custom dataset
 ![alt text](https://github.com/nik150271/final-Deep-Learning-project-spring-2020-basic-stream/blob/master/Img/stack-segmentation.jpg)
 Для 83 изображений получилось 199 масок.
 Написал get_stack_dicts - создание словаря для Dataloader Detectron2
+К сожалению не успел разобраться с Аугментацией для Detectron2, поэтому обучение было на 83 изображениях.
+5. Произвел обучение модели (model_zoo), поэксперементировал с параметрами.
+6. Качество работы модели можно посмотреть с помощью inference_on_dataset
+Все вышеописанное есть в Ноутбуке в папке Notebook
+7. Пути применения в бизнесе: добавив сегментацию досок в штабеле (не успел к сожалению), можно создать приложение, которое по фотографии считает количство штабелей и количество досок в каждом штабеле.
