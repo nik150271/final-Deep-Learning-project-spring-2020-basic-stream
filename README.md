@@ -4,4 +4,6 @@ Submission of the final Stepik project. Task of segmentation of a custom dataset
 ## Для задачи сегментации был выбран второй сценарий (работа с собственным Датасетом)
 
 1. 
-![alt text](https://drive.google.com/file/d/12WiP3agcS34U6oMXrIihDhKrdEUfYHk_/view?usp=sharing)
+
+
+![alt text](https://github.com/nik150271/final-Deep-Learning-project-spring-2020-basic-stream/blob/master/Img/stack-segmentation.jpg)
